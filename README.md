@@ -1,5 +1,6 @@
-### Hi there 👋
+#About me
 
+I am a math professor at the University of the Pacific.  I like to code mathematically inspired projects, preferably with interesting graphics and ususally from scratch as a fun way to learn something new.  
 <!--
 **asdugas/asdugas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
